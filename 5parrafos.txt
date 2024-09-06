@@ -1,0 +1,7 @@
+Este video es para la tarea 2 de la segunda unidad. 
+
+Y es un video tutorial de como crear un repositorio local y hacerlo remoto.
+En este video tutorial, nos ayudara para familiarizarnos con GitHub y nos ayudara para poder crear repertorios de una manera más fácil.
+
+Además de que con este video, podremos presentar el proceso del como es que se crean diferentes ramas y se agregan a GitHub.
+Y también se ira explicando paso a paso el como es que se va realizando para que se entienda de buena manera.
